@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	margin-top: 5px;
+}
+.content {
+	border-top: solid 5px #f54a0c;
+	background-color: #b8caf5;
+}
+.biodata_img {
+	width: 200px;
+}
+/* ICONS */
+.icons {
+	width: 30px;
+}
+.images:hover {
+	transform: scale(5.5);
+}
